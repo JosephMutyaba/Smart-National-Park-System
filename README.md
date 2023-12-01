@@ -20,29 +20,29 @@ The Smart National Park Tourist System is designed to automate the processes inv
 
 ## Features
 
-- **Tourist Entry:**
+- *Tourist Entry:*
   - Vehicle detection via bridge-triggered interrupt.
   - LCD display of incoming vehicle message.
   - Registration of tourists, including car details and occupants' information.
 
-- **Gate Operation:**
+- *Gate Operation:*
   - Automatic gate opening and closing.
 
-- **Fee Collection:**
+- *Fee Collection:*
   - Water bottle purchase option with cost calculation.
   - Money slot for fund insertion.
   - Water bottle dispensing with a delay.
 
-- **Park Management:**
+- *Park Management:*
   - Capacity configuration stored in EEPROM.
   - Monitoring of tourists and vehicles in the park.
   - Aggregated collection information.
 
-- **Security and Configuration:**
+- *Security and Configuration:*
   - Password-protected access for the attendant.
   - Configuration storage in EEPROM.
 
-- **Serial Console Menu:**
+- *Serial Console Menu:*
   - Accessible for various management tasks.
 
 ## Technologies Used
@@ -72,7 +72,10 @@ Simulate the system in Proteus for testing and validation.
 
 Include images of your hardware setup, simulation results, or any visual representations relevant to your project.
 
+### Hardware setup.
 ![Hardware Setup](images/hardware_setup.jpeg)
+
+### Sample simulation results.
 ![Simulation Result](images/simulation_result.png)
 
 ## Contributing
@@ -83,7 +86,7 @@ I welcome contributions! If you'd like to contribute to the project, please foll
 - Create a new branch for your contribution.
 - Make your changes and commit with descriptive messages.
 - Push your branch to your fork.
-- Submit a pull request to the `main` branch of the original repository.
+- Submit a pull request to the `master` branch of the original repository.
 
 Thank you for contributing!
 ## License
