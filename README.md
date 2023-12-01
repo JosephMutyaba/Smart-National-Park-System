@@ -72,7 +72,7 @@ Simulate the system in Proteus for testing and validation.
 
 Include images of your hardware setup, simulation results, or any visual representations relevant to your project.
 
-![Hardware Setup](images/hardware_setup.jpg)
+![Hardware Setup](images/hardware_setup.jpeg)
 ![Simulation Result](images/simulation_result.png)
 
 ## Contributing
