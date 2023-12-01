@@ -77,8 +77,15 @@ Include images of your hardware setup, simulation results, or any visual represe
 
 ## Contributing
 
-Feel free to contribute by opening issues or submitting pull requests. Follow the [Contributing Guidelines](CONTRIBUTING.md).
+I welcome contributions! If you'd like to contribute to the project, please follow the guidelines below:
 
+- Fork the repository.
+- Create a new branch for your contribution.
+- Make your changes and commit with descriptive messages.
+- Push your branch to your fork.
+- Submit a pull request to the `main` branch of the original repository.
+
+Thank you for contributing!
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
