@@ -69,9 +69,6 @@ Simulate the system in Proteus for testing and validation.
 - Use the serial console menu for attendant-specific actions.
 
 ## Images
-
-Include images of your hardware setup, simulation results, or any visual representations relevant to your project.
-
 ### Hardware setup.
 ![Hardware Setup](images/hardware_setup.jpeg)
 
