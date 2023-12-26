@@ -88,4 +88,4 @@ I welcome contributions! If you'd like to contribute to the project, please foll
 Thank you for contributing!
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT](LICENSE) License.
